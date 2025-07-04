@@ -32,6 +32,14 @@
 
 Disponível em versão web, a aplicação conta com frontend e backend integrados e utiliza containers para facilitar o desenvolvimento e a execução.
 
+## 🌐 Acesso a Aplicação
+
+[FCTEPodcast](https://fctepodcast.site)
+
+Ou pelo link
+
+https://fctepodcast.site
+
 ---
 
 ## ⚙️ Requisitos de Execução

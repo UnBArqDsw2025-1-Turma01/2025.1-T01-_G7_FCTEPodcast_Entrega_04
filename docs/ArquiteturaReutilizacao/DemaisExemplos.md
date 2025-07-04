@@ -112,11 +112,12 @@ Essa abordagem não apenas contribui para a escalabilidade e manutenibilidade do
 
 ## Referências
 
-- https://legacy.reactjs.org/docs/faq-internals.html
-- https://pt-br.legacy.reactjs.org/docs/react-dom.html
-- https://v3.tailwindcss.com/
-- https://www.heroui.com/
-- https://reactrouter.com/home
+- **React – FAQ Internals**. Disponível em: [https://legacy.reactjs.org/docs/faq-internals.html](https://legacy.reactjs.org/docs/faq-internals.html). Acesso em: jul. 2025.  
+- **React – ReactDOM**. Disponível em: [https://pt-br.legacy.reactjs.org/docs/react-dom.html](https://pt-br.legacy.reactjs.org/docs/react-dom.html). Acesso em: jul. 2025.  
+- **TailwindCSS – Documentação Oficial (v3)**. Disponível em: [https://v3.tailwindcss.com/](https://v3.tailwindcss.com/). Acesso em: jul. 2025.  
+- **HeroUI – Componentes UI para React**. Disponível em: [https://www.heroui.com/](https://www.heroui.com/). Acesso em: jul. 2025.  
+- **React Router – Documentação Oficial**. Disponível em: [https://reactrouter.com/home](https://reactrouter.com/home). Acesso em: jul. 2025.  
+
 
 | Versão |    Data    |        Descrição         |    Autor(es)    |  Revisor(es)     |  Detalhes da Revisão  |  
 | :----: | :--------: | :----------------------: | :-------------: | :----------------| :---------------------|
