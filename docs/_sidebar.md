@@ -4,5 +4,6 @@
 
 - **Arquitetura de Software & Reutilização**
   - [Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+  - [Detalhes Técnicos](/ArquiteturaReutilizacao/DemaisExemplos.md)
   - [Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
   - [Extras](/Extras.md)
